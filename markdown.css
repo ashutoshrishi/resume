@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,700);
 
 body {
-    padding-top: 10px;
+    padding-top: 2px;
     text-rendering: optimize-speed;
     font-family: Ubuntu;
 }
@@ -12,13 +12,31 @@ body {
 
 blockquote p{
     padding-right: 200px;
-    font-size: 1em;
+
 }
 
 .hero-unit {
-    padding: 20px;
+    padding: 15px;
+
 }
 
 .hero-unit p {
-    color: #000;
+
+    line-height: 150%;
+    font-size: 15px;
+}
+
+.extra {
+    border-right: 1px solid #e3e3e3;
+    padding-right: 8px;
+}
+
+.info {
+    padding-top: 0px;
+}
+
+.lesspadding {
+    padding-left: 0px;
+    padding-right: 15px;
+
 }

@@ -3,25 +3,78 @@
 
 <div class="container">
 
-<div class="row">
-<div class="span5">
-<div class="page-header"><h1>Curriculum Vitae</h1>
-
-</div></div>
-<div class="span4 pull-right well">
-<strong>Ashutosh Rishi Ranjan</strong><br>
-        Email:  ashutoshrishi92@gmail.com <br>
-        Phone:  +91 9820600376         <br>
-        Github: <span class="muted">http://github.com/</span>ashutoshrishi
+<div class="row" style="margin-left: 0px">
+<div class="span5" style="margin-left: 0px">
+<div class="page-header">
+    <h1>Curriculum Vitae</h1>
+</div>
+</div>
+<div class="span7" style="width: 560px">
+<div class="row well pull-right">
+<div class="span3 extra">
+     <strong>Ashutosh Rishi Ranjan</strong><br>
+     Third Year, Computer Science,<br>
+     Symbiosis Institute of Technology,<br>
+     Symbiosis International University, Pune.<br>
+</div>
+<div class="span3 info">
+        <strong>Email:</strong>  ashutoshrishi92@gmail.com <br>
+        <strong>Phone:</strong>  +91 9765772036  <br>
+        <strong>Github:</strong> <span
+        class="muted">http://github.com/</span>ashutoshrishi<br>
+</div>
+</div>
 </div>
 </div>
 
+<table class="table table-striped table-bordered style="font-size:14px">
+    <thead>
+        <tr>
+            <th colspan="4"><h2>Academics</h2></th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+            <th>DEGREE/EXAMINATION</th>
+            <th>INSTITUTE/UNIVERSITY</th>
+            <th>YEAR OF PASSING</th>
+            <th>PERCENTAGE SECURED</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>B.Tech (Computer Science)</td>
+            <td>Symbiosis Institute of Technology, <br> 
+            Symbiosis International University, Pune</td>
+            <td>2014 (July)</td>
+            <td>CGPA till date: 3.282 (out of 4)</td>
+        </tr>
+        <tr>
+            <td>Class XII</td>
+            <td>K.C. College, Mumbai University (H.S.C board)</td>
+            <td>2010</td>
+            <td>89 %</td>
+        <tr>
+        <tr>
+            <td>Class X</td>
+            <td>St. Mary's ICSE, Mumbai</td>
+            <td>2008</td>
+            <td>91 %</td>
+        </tr>
+    </tbody>
+</table>
+
+--------------------------------------------------------------------------------
+
+<div style="font-size:15px!important">
 
 Experience
 ----------
 
+
 * #### Co-Head of Technical Team for Symbiosis Institute of Technology's fest - Reverb 2012. #### 
-  
+
+
       >  I designed the Fest website and wrote the server end for
       >  registrations in PHP. As the co-head I mitigated technical
       >  solutions and worked as a part of a team to solve technical snags
@@ -32,7 +85,8 @@ Experience
 
 * ####Extra Curricular:####
  
-    1. **Worked with IRAM (Initiative for Reconstruction And Mobilization)**
+    1. **Worked with IRAM (Initiative for Reconstruction And
+    Mobilization) from May 24th to July 15th, 2011**
        
            > IRAM is a Delhi based NGO. I worked with them in their initiative to educate underprivileged students in
            > the states of Delhi and Haryana (India) through the 'Sarva Shiksha Abhiyan'
@@ -42,9 +96,11 @@ Experience
 
            > I served actively as a Scout in The East Bombay 
            > Bharat Scouts and Guides Association through St. Mary's
-           > ICSE, Mumbai.  
+           > ICSE, Mumbai, from class 6th to class 10th.
            
            
+</div>
+
 --------------------------------------------------------------------------------
 
 Projects
@@ -56,8 +112,8 @@ Projects
   <span class="label">PHP</span>
   <span class="label">JQuery</span>
   <span class="label">HTML+CSS</span>
-<p style="font-size:1em">The Website was used to accept registrations and record participant
-  data. The backend was developed in PHP and it doubled as an offline
+<p style="font-size:15px">The Website was used to accept registrations and record participants'
+  data. The back-end was developed in PHP <br>and it doubled as an offline
   participant management system.</p>
 </div>
 
@@ -73,9 +129,9 @@ Projects
   href="https://github.com/ashutoshrishi/adventuresontheweb">
   https://github.com/ashutoshrishi/adventuresontheweb</a>
 
-  <p style="font-size:1em">It is a barebone simplistic Blog using plain text
+  <p style="font-size:15px">It is a barebone simplistic Blog using plain text
   markdown files for posts. Perfect for people who love plain text
-  files. The project is written using the Flask framework in Python. </p>
+  files. <br>The project is written using the Flask framework in Python. </p>
 </div>
 
 
@@ -83,32 +139,29 @@ Projects
 
 Interests
 ---------
+<div class="well" style="font-size:15px!important">
 
-<big>
-
-Open Source, Contributing to FOSS Projects, **Python**, UX Designing,
-Web applications,  **Ubuntu**,
+Open Source, Contributing to FOSS Projects, Python, UX Designing,
+Web applications, 
 
 Unit Testing, Functional Programming, Website designing and development,
 
-Robotics, **Startups**, Reading, Writing articles.
+Robotics, Startups, Reading, Writing articles.
 
-
-
-
-</big>
+</div>
 
 --------------------------------------------------------------------------------
 
-<br><br><br>
 
 Technical Skills
 ----------------
 
+<div style="font-size:15px!important">
+
 #### Tools ####
 
 <div class="row">
-    <div class = "span4">
+    <div class = "span5">
         <div class="well">
             <h3>Developing Environment</h3>
             <hr>
@@ -121,7 +174,7 @@ Technical Skills
 
 </div>
    </div>
-   <div class = "span4">
+   <div class = "span3">
         <div class="well">
             <h3>Languages</h3>
             <hr>
@@ -153,61 +206,19 @@ Technical Skills
    </div>   
 </div>
 
-
-
---------------------------------------------------------------------------------
-
-
-<table class="table table-striped table-bordered">
-    <thead>
-        <tr>
-            <th colspan="4"><h2>Academics</h2></th>
-        </tr>
-    </thead>
-    <thead>
-        <tr>
-            <th>DEGREE/EXAMINATION</th>
-            <th>INSTITUTE/UNIVERSITY</th>
-            <th>YEAR OF PASSING</th>
-            <th>PERCENTAGE SECURED</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>B.Tech (Computer Science)</td>
-            <td>Symbiosis International University</td>
-            <td>2014 (July)</td>
-            <td>CGPA till date: 3.282</td>
-        </tr>
-        <tr>
-            <td>Class XII</td>
-            <td>K.C. College, Mumbai (H.S.C)</td>
-            <td>2010</td>
-            <td>89 %</td>
-        <tr>
-        <tr>
-            <td>Class X</td>
-            <td>St. Mary's ICSE</td>
-            <td>2008</td>
-            <td>91 %</td>
-        </tr>
-    </tbody>
-</table>
+</div>
 
 --------------------------------------------------------------------------------
-
 
 Future Goals
 ------------
 
-<big>
+<div style="font-size:15px!important">
 
-* Move from being primarly a developer and into devops
+* Move from being primarily a developer and into devops
 * Be a part of a Startup
-* Push for development of high quality applications in Linux 
 
-
-</big>
+</div>
 
 --------------------------------------------------------------------------------
 
@@ -218,11 +229,11 @@ Personal
     <tbody>
     <tr>
         <th width="20%">Father's Name</th>
-        <td>Rajiv Ranjan</td>
+        <td>Dr. Rajiv Ranjan</td>
     </tr>
     <tr>
         <th>Mother's Name</th>
-        <td>Manjari Bharati</td>
+        <td>Mrs. Manjari Bharati</td>
     </tr>
     <tr>
         <th>Date of Birth</th>
