@@ -1,3 +1,5 @@
+Preview: http://ashutoshrishi.github.io/CV/
+
 I was not really interested in making a CV in word format. In fact, I
 find it easier and faster to write and format a page in HTML than in a
 word-like processing software.
