@@ -1,42 +1,44 @@
-@import url(http://fonts.googleapis.com/css?family=Oswald:400,700);
-
 body {
-    padding-top: 2px;
-    text-rendering: optimize-speed;
-    font-family: Ubuntu;
+    background-color: #fff;
+    font-family: 'Open Sans';
+    font-size:1.6em;
 }
 
-.container {
-    width: 960px;
+p {
+    font-size:1em;
 }
 
-blockquote p{
-    padding-right: 200px;
-
+.navbar-brand {
+    color: #111111;
 }
 
-.hero-unit {
-    padding: 15px;
-
+.callout {
+    margin: 0px 0px;
+    padding: 20px;
+    border-left: 5px solid #EEE;
 }
 
-.hero-unit p {
-
-    line-height: 150%;
-    font-size: 15px;
+.callout-other {
+    border-color: #463265;
+    background-color: #eee;
 }
 
-.extra {
-    border-right: 1px solid #e3e3e3;
-    padding-right: 8px;
+.callout-blue {
+    background-color: #F4F8FA;
+    border-color: rgba(146, 145, 182, 1);
 }
 
-.info {
-    padding-top: 0px;
+.listheader-other {
+    background-color: #463265;
+    color: #fff;
+    border: 2px solid #463265;
 }
 
-.lesspadding {
-    padding-left: 0px;
-    padding-right: 15px;
-
+.label-purple {
+    background-color: #463265;
 }
+
+.label-purple-inter {
+    background-color: rgba(105, 92, 125, 1);
+}
+
