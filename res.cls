@@ -429,6 +429,7 @@
     \vskip-\parskip
   \fi
   \ignorespaces
+  \vspace{2mm}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -788,7 +789,7 @@
 \topsep 0pt 
 \parskip 0pt
 \partopsep 2pt plus 2pt
-\parsep 2pt plus 2pt
+\parsep 0pt
 \itemsep \parsep}
 
 \pagestyle{empty}  % don't want page numbers
@@ -802,4 +803,5 @@
 \let\section\@@section
 
 %% User configurations
+
 
