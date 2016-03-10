@@ -1,9 +1,10 @@
-\documentclass[overlapped]{res}
+\documentclass[a4paper,overlapped]{res}
 \usepackage[default]{droidserif}
 \usepackage[T1]{fontenc}
 \usepackage{enumitem}
 \setlist[itemize]{leftmargin=*}
-% \usepackage{helvetica}
+
+
 \begin{document}
 \name{Ashutosh Rishi Ranjan}
 
@@ -12,7 +13,7 @@
   \moveleft.5\hoffset\centerline{118 Bouverie Street, Carlton, VIC 3053, Australia}
   \moveleft.5\hoffset\centerline{+61 452 482 036}
   \moveleft.5\hoffset\centerline{ashutoshrishi92@gmail.com}
-  
+
   \section{Education}  
   \textbf{University of Melbourne} \hfill \textit{Expected to graduate June 2016} \\
   MSc. Computer Science 
@@ -27,15 +28,37 @@
   B.Tech. Computer Science 
 
 
-  \section{Experience}
+  \section{Coursework Projects}
+  
   \textbf{Research Project on Declarative Languages,} \hfill \textit{On going}\\
   \textbf{University of Melbourne}
   \begin{itemize}
   \item Translation of a newly proposed logical IR targeting LLVM using a new
-    in-house \\ functional+logical source langauge for testing.
+    functional + \\ logical source langauge for testing.
   \item Developing an intermediate object file wrapper.
-  \item Writing the complete compiler back-end in Haskell.
+  \item Writing the compiler back-end in Haskell.
   \end{itemize}
+
+  \textbf{Twitter Analysis Service over an Open Stack IAAS,} 
+  \hfill \textit{2015 Semester 2}\\
+  \textbf{University of Melbourne}
+  \begin{itemize}
+  \item Wrote a Python client to harvest geo-located tweets around SF into a
+    CouchDB \\
+    instance. The client ran as a daemon from two different servers.
+  \item Wrote a Python application to perform several different analyses on the
+    stored data, \\
+    making use of CouchDB Map-Reduce views and present it's result
+    as a REST API.
+  \item Setup a NGINX server on an instance to host the website presenting this
+    data \\ through graphs and heat maps.
+  \item We built our own orchestration tool using Bash scripts and rsync,
+    imitating Ansible.
+    
+  \end{itemize}
+  
+
+  \section{Experience}
 
   \textbf{Web Developer,} \hfill \textit{Contract basis, 2015}\\
   \textbf{Melbourne Web Co.}
@@ -56,7 +79,7 @@
     adoption of the portal.
   \end{itemize}
   
-  \textbf{Assistant to Project Manager,}  \hfill \textit{June 2013}\\
+  \textbf{Intern, Assistant to Project Manager,}  \hfill \textit{June 2013}\\
   \textbf{Bahwan Cybertek, Oman}
   \begin{itemize}
   \item Modelled an implementation of an IBM Maximo Asset management 
@@ -81,7 +104,7 @@
   \begin{itemize}
   \item Programmed back-ends in Javascript, Python and PHP.
   \item Experience with designing and using REST APIs.
-  \item JS Toolkit: ReactJS, Meteor, Express, JQuery among
+  \item JS Toolkit: ReactJS, Express, JQuery among
     others.
   \item Front-end development with responsive design and a focus on good UI/UX.
   \end{itemize}
@@ -89,7 +112,7 @@
   \begin{itemize}
   \item Experienced with Unix/Linux; Configuring NGINX and Apache web servers on
     Linux.
-  \item Worked on projects using Amazon AWS, Open Stack Instances. 
+  \item Worked on projects built upon Open Stack. 
   \end{itemize}
   \textbf{Languages:} \\ 
   \begin{tabular}{l l}
