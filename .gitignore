@@ -35,6 +35,7 @@
 *.toc
 *.vrb
 *.xdy
+auto/
 
 ##OSX###
 .DS_Store
